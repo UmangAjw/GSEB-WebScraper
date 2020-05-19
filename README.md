@@ -1,6 +1,6 @@
 # GSEB-WebScraper
 
-## Introduction & fetures
+## Introduction & features
 This scraper basically does work from your side to go through each roll number in given range and you can find all the results and also can find result by just name or surname or full name.
 
 3 major results are declared in <http://gseb.org/> website are SSC, HSC science, HSC general. There are three different versions for each of them.  
