@@ -29,12 +29,20 @@ Also to start with roll numbers it starts from 100001 in most cases. Just try to
 And then try searching end roll number of the results, General idea of it is to search the total number of students appeared in the exam.
 
 #### For Search by name:
-After installing you have to run ResultByName.py file. Reset the initial Value of roll to the intial roll number you analysed. Just change the string which you want to search. (Commented in the code)
-General practice to search by name is to search just by ```SURNAME NAME``` donot include fathers name because in some cases some might there might be fathers name with postfix 'Bhai' or 'Kumar' or 'Chandra' something like that.
+After installing you have to run ResultByName.py file. Reset the initial Value of roll to the intial roll number you analysed. Just change the string which you want to search (Commented in the code). I have assigned it to as per the latest result 2020 HSC Science GSEB result so need to worry about. You can shorten the range if you want to.
+
+General practice to search by name is to search just by ```SURNAME NAME``` donot include fathers name because in some cases some might there might be fathers name with postfix 'Bhai' or 'Kumar' or 'Chandra' something like that. 
+
+Wait for it let the code breath till it finds your result corresponding to the name with URL.
 
 By the way you can also search by just name or just surname but that might result into great results. 
 
 #### For scraping all the results
-After installing just run Scraper.py Initialze the roll number (Commented in the code) analyzed by you before. 
+After installing just run Scraper.py Initialze the roll number (Commented in the code) analyzed by you before. I have assigned it to as per the latest result 2020 HSC Science GSEB result so need to worry about. You can shorten the range if you want to.
+
+Let the code breath. Check the csv after the completion.
+
+#### Note 
+Make sure you check the stopping condition as well according how much you want to scrape or search.
 
 BOOM! you are good to go.
