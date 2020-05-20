@@ -23,7 +23,8 @@ Obviously you need to have python in your systems. Additionally, you need to hav
 ## Protips
 
 You might need to know the roll numbers range starting and ending that you can get by general idea of students appearing in the examinations.
-Generally, GSEB HSC science roll numbers have B in their initials and also it is of 6 digits. Something like this ```B XXXXXX``` 
+Generally, GSEB HSC science roll numbers have B in their initials and also it is of 6 digits. Something like this 
+```B XXXXXX``` 
 
 Also to start with roll numbers it starts from 100001 in most cases. Just try to search result of 100001, 100002 in <http://gseb.org/> if you get in line exam results you are good to go. 
 And then try searching end roll number of the results, General idea of it is to search the total number of students appeared in the exam.
