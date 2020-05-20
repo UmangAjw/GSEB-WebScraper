@@ -42,7 +42,11 @@ After installing just run Scraper.py Initialze the roll number (Commented in the
 
 Let the code breath. Check the csv after the completion.
 
-#### Note 
+### Note 
 Make sure you check the stopping condition as well according how much you want to scrape or search.
+
+### Rate of scraping 
+Generally you would scrape 20-30 results in a second. Again this is subject to website traffic and your internet speed. You would scrape atleast 20 results.
+Finding results by name would be quicker
 
 BOOM! you are good to go.
