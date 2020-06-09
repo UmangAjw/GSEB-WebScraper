@@ -25,9 +25,11 @@ Obviously you need to have python in your systems. Additionally, you need to hav
 You might need to know the roll numbers range starting and ending that you can get by general idea of students appearing in the examinations.
 Generally, GSEB HSC science roll numbers have B in their initials and also it is of 6 digits. Something like this 
 ```B XXXXXX``` 
+Also to start with roll numbers it starts from 100001 in most cases. Just try to search result of 100001, 100002 in <http://gseb.org/> if you get in line exam results you are good to go.
 
-Also to start with roll numbers it starts from 100001 in most cases. Just try to search result of 100001, 100002 in <http://gseb.org/> if you get in line exam results you are good to go. 
-And then try searching end roll number of the results, General idea of it is to search the total number of students appeared in the exam.
+For SSC result there are more initials as compared to HSC science. 'A', 'B' , 'C' , 'S', 'P' initials are there because of huge number of students. Also, roll number is of 7 digits. So, you need to do little more work roll number looks like: ```A XXXXXXX``` <http://gseb.org/>
+
+Same goes to this you need to find out sort of range. And then try searching end roll number of the results, General idea of it is to search the total number of students appeared in the exam.
 
 #### For Search by name:
 After installing you have to run ResultByName.py file. Reset the initial Value of roll to the intial roll number you analysed. Just change the string which you want to search (Commented in the code). I have assigned it to as per the latest result 2020 HSC Science GSEB result so need to worry about. You can shorten the range if you want to.
