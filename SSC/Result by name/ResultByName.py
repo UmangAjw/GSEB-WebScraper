@@ -35,10 +35,13 @@ while(findex == -1):
             roll += 1
             rollstr = str(roll)
         else:
-            print(base_url)
+            print(rollstr+': '+base_url)
             break
     else:
-        print('404')
+        print(rollstr+': 404')
+        count += 1
+        roll += 1
+        rollstr = str(roll)
 
     if count > 319667:  # Stopping condition depending upon how much range you want to search
         break
