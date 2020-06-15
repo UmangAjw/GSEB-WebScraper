@@ -30,6 +30,9 @@ while(findex == -1):
             break
     else:
         print('404')
+        count += 1
+        roll += 1
+        rollstr = str(roll)
 
     if count > 119666:  # Stopping condition depending upon how much range you want to search
         break
