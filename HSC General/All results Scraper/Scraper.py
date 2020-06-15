@@ -5,7 +5,7 @@ import lxml
 from bs4 import BeautifulSoup
 
 # Note:
-# HSC General roll numbers are 6 digit ones. Also, they have 5 initials A, B, C, D, G, H, P, T, S
+# HSC General roll numbers are 6 digit ones. Also, they have 9 initials A, B, C, D, G, H, P, T, S
 # While in the case of HSC science there is just 1 initials i.e. B (followed by 6 digits)
 
 # Opening a file for the first time only
